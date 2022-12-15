@@ -91,7 +91,7 @@ const Index = ({ children }: any) => {
       path === "/authentication/forgot-password" ||
       path === "/authentication/reset-password" ||
       path === "/authentication/g2f-verify" ||
-      path === "/" ||
+      path === "/authentication/signin" ||
       path === "/authentication/verify-email" ||
       path === "user/notification"
     ) {
